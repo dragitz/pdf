@@ -12,7 +12,7 @@ pip install any remaining modules that you don't have.
 
 Check the release tab
 
-NOTE: The code have been updated in the release
+NOTE: The code has been updated in the release
 
 ---------------
 #####
