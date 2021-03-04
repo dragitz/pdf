@@ -3,7 +3,9 @@
 Python3 support
 
 pip install -r requirements.txt
+
 pip3 install werkzeug==0.15.4
+
 pip3 install -U Flask==1.0.4
 
 pip install any remaining modules that you don't have.
