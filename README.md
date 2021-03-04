@@ -1,4 +1,5 @@
 #####
+---------------
 Python3 support
 
 pip install -r requirements.txt
@@ -9,6 +10,7 @@ pip install any remaining modules that you don't have.
 
 Check the release tab
 
+---------------
 #####
 
 ![pdf logo](https://github.com/malice-plugins/pdf/blob/master/docs/pdf.png)
