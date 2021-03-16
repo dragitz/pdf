@@ -1,18 +1,21 @@
 #####
 ---------------
-Python3 support
+This version has support for Python3 
 
+NOTE: The code has been updated in the release
+
+```
 pip install -r requirements.txt
 
 pip3 install werkzeug==0.15.4
 
 pip3 install -U Flask==1.0.4
+```
 
 pip install any remaining modules that you don't have.
 
-Check the release tab
 
-NOTE: The code has been updated in the release
+
 
 ---------------
 #####
